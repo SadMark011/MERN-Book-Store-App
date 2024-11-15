@@ -9,7 +9,7 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 
 // import required modules
-import { Navigation, Pagination } from 'swiper/modules';
+import { Navigation} from 'swiper/modules';
 
 
 const categories = ["Choose a genre", "Business", "Fiction", "Horror", "Adventure"]

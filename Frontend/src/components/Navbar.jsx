@@ -10,7 +10,7 @@ import avatarImg from "../assets/avatar.png"
 
 const Navigation = [
     { name: "Dashboard", href:"/dashboard" },
-    { name: "Orders", href:"/orders" },
+    { name: "Orders", href:"/order" },
     { name: "Cart Page", href:"/cart" },
     { name: "Check Out", href:"/checkout" }
 ]
